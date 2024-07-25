@@ -1,0 +1,25 @@
+Model: LinearRegression
+Mean Squared Error: 1339596651629.2637
+R^2 Score: 0.6140
+
+
+Model: RandomForestRegressor
+Mean Squared Error: 1314575376776.7092
+R^2 Score: 0.6212
+
+
+Model: KNeighborsRegressor
+Mean Squared Error: 1442506791844.0366
+R^2 Score: 0.5843
+
+
+Model: SVR
+Mean Squared Error: 3581433066440.5986
+R^2 Score: -0.0321
+
+
+Model: DecisionTreeRegressor
+Mean Squared Error: 2466101282624.7705
+R^2 Score: 0.2893
+
+
